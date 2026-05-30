@@ -1,0 +1,10 @@
+opencv-python
+google-generativeai
+pyttsx3
+python-dotenv
+yt-dlp
+ffmpeg-python
+numpy
+Pillow
+openai-whisper
+torch

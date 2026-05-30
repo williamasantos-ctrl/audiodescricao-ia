@@ -1,0 +1,22 @@
+# ===== Ambientes virtuais =====
+.venv/
+venv/
+
+# ===== Variáveis secretas =====
+.env
+
+# ===== Cache Python =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== Arquivos temporários =====
+audio/temp/
+frames/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Sistema =====
+.DS_Store
+Thumbs.db
